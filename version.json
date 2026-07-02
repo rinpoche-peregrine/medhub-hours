@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.1/MedHubHours.apk",
-  "notes": "Test update - shows running version by the title"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.2/MedHubHours-debug.apk",
+  "notes": "Fixed the in-app updater; shows version by the title"
 }
