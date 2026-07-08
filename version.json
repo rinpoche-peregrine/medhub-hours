@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.3/MedHubHours-debug.apk",
-  "notes": "Update test v2.3"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.4/MedHubHours-debug.apk",
+  "notes": "Readable white text on the Today card edit fields"
 }
