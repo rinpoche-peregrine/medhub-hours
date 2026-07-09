@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.5/MedHubHours-debug.apk",
-  "notes": "Pager alerts: loud override for a chosen app while clocked in"
+  "versionCode": 17,
+  "versionName": "2.6",
+  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.6/MedHubHours-debug.apk",
+  "notes": "Pick a custom sound for pager alerts"
 }
