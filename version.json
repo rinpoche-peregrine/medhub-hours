@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.4/MedHubHours-debug.apk",
-  "notes": "Readable white text on the Today card edit fields"
+  "versionCode": 16,
+  "versionName": "2.5",
+  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.5/MedHubHours-debug.apk",
+  "notes": "Pager alerts: loud override for a chosen app while clocked in"
 }
