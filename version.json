@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
-  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v2.7/MedHubHours-debug.apk",
-  "notes": "Pager: single tone, stops on unlock, quiet when phone is in use"
+  "versionCode": 19,
+  "versionName": "3.0",
+  "url": "https://github.com/rinpoche-peregrine/medhub-hours/releases/download/v3.0/MedHubHours-debug.apk",
+  "notes": "3.0: works at any hospital — pick or type your MedHub institution. Private hashed usage logging."
 }
